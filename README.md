@@ -1,5 +1,4 @@
-# Program generates all lexicographic permutations of a n-tuple
-
-# n-tuple will be accepted as input from user
-
-# n-tuple will contain only integers storage container has not yet been determined
+# Generate all Lexicographic Permutations
+Accepts n amount of integers from user
+Stores integers as an n-tuple
+Displays all permutations of n-tuple to screen
